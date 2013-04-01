@@ -1,0 +1,4 @@
+Android
+=======
+
+Sinkronizacija slika
